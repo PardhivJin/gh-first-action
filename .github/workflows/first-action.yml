@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print Hello
-      - run: echo "Hello Guys"
+        run: echo "Hello Guys"
       - name: Print bye
-      - run: echo "Anurup loves lgbtqia+"
+        run: echo "Anurup loves lgbtqia+"
       
